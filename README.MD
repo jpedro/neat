@@ -1,0 +1,3 @@
+# Neat
+
+Test rust package.
